@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Aquino0/finance-dashboard-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Aquino0/finance-dashboard-frontend.git
