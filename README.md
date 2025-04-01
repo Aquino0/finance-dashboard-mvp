@@ -57,15 +57,18 @@ Uma aplicação completa de consulta de preços de **ações** e **moedas** em t
 ### :computer: Executando com Docker
 
 ```bash
-git clone https://github.com/SEU_USUARIO/finance-dashboard-mvp.git
+git clone https://github.com/Aquino0/finance-dashboard-mvp.git
 cd finance-dashboard-mvp
+git clone https://github.com/Aquino0/finance-dashboard-backend.git backend
+git clone https://github.com/Aquino0/finance-dashboard-frontend.git frontend
+
 
 # Subir containers (backend + frontend)
 docker-compose up --build
 ```
 
 Acesse:
-- Frontend: [http://localhost:3000](http://localhost:3000)
+- Frontend: [http://localhost](http://localhost)
 - Swagger: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ---
