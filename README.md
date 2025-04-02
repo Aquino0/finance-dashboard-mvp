@@ -80,9 +80,7 @@ Acesse:
 - [LinkedIn](https://www.linkedin.com/in/%F0%9F%8E%AF-cristopher-aquino-4992b251/)
 - 📱 (21) 98005-9430
 
----
 
-> Este repositório serve como ponto de apresentação oficial do MVP Finance Dashboard. Confira os repositórios específicos para detalhes de implementação.
 
 
 
