@@ -59,8 +59,8 @@ Uma aplicação completa de consulta de preços de **ações** e **moedas** em t
 ```bash
 git clone https://github.com/Aquino0/finance-dashboard-mvp.git
 cd finance-dashboard-mvp
-git clone https://github.com/Aquino0/finance-dashboard-backend.git backend
-git clone https://github.com/Aquino0/finance-dashboard-frontend.git frontend
+# Baixar os submódulos do projeto (backend e frontend)
+git submodule update --init --recursive
 
 
 # Subir containers (backend + frontend)
@@ -77,7 +77,7 @@ Acesse:
 
 **Cristopher Aquino**
 
-- [LinkedIn](https://www.linkedin.com/in/%F0%9F%8E%AF-cristopher-aquino-4992b251/)
+- [LinkedIn](https://www.linkedin.com/in/cristopher-aquino-4992b251/)
 - 📱 (21) 98005-9430
 
 
